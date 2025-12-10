@@ -1,2 +1,2 @@
-Take the input from user...
-And print with allow message
+Take the input from user>>>
+Process the data
