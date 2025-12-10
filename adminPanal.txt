@@ -1,0 +1,3 @@
+admin can add
+admin can delete 
+admin can rule 
